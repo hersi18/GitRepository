@@ -1,2 +1,2 @@
 # GitRepository
-This is a simple git repository.
+Hello friend.This is a simple git repository.
